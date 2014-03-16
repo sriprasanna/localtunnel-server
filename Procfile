@@ -1,1 +1,1 @@
-web: bin/server --port 18320
+web: bin/server
