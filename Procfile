@@ -1,1 +1,1 @@
-bin/server
+web: bin/server
