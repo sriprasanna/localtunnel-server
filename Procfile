@@ -1,1 +1,1 @@
-web: bin/server
+web: bin/server --port 80
